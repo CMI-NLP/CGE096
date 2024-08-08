@@ -1,2 +1,2 @@
-# NLP
-All presentation wrt to this course
+# NLP-CGE096
+All presentations wrt to this course
